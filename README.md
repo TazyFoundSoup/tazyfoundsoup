@@ -19,4 +19,4 @@ LOLCODE: // TODO: Learn
 Powerpoint animations: How is this not a language, it's actually the goat  
 
 ### What am i doing right now
-Listening to toe (best band ever)
+Listening to star starer and cici (deserves more attention, check them out plsss)
