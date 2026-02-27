@@ -12,7 +12,7 @@ and i am also a proud .dev domain owner, so [check it out](https://tazy.dev) (no
 I made tinyff, it's tiny and ff. Really WIP. Looking for contributers and if you do you might get a cookie from me in 20 years 🍪
 
 
- \> \> \> \> \> \> \> \> \> \> \> \> \> \> \> \>  [github.com/TazyFoundSoup/tinyff](github.com/TazyFoundSoup/tinyff)  < < < < < < < < < < < < < < < <
+ \> \> \> \> \> \> \> \> \> \> \> \> \> \> \> \>  [github.com/TazyFoundSoup/tinyff](https://github.com/TazyFoundSoup/tinyff)  < < < < < < < < < < < < < < < <
 
 ## Dev stack
 
