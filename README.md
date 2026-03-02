@@ -26,5 +26,8 @@ Lisp: (I)(Have)(Never)(Tried)(It)(.)
 LOLCODE: // TODO: Learn  
 Powerpoint animations: How is this not a language, it's actually the goat  
 
+## Stuff I like
+I like coding (duh) and also photography. I also kinda like baking sometimes. I can make nice gyozas. I really like gardening, especially tomatoes. I also really like aloe vera juice. Idk why you read this but thanks for actually spending time on my profile.
+
 ### What am i doing right now
 Listening to star starer and cici (deserves more attention, check them out plsss)
