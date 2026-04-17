@@ -2,7 +2,7 @@ hi
 
 ![hi](hi.gif)
 
-im tazy. i am a hobby coder from down unda. i try to code while also doing my homework, so my consistency is NOT gauranteed.
+im watson / tazy. i am a student who just does coding as well. i like c and hardware stuff
 
 and i am also a proud .dev domain owner, so [check it out](https://tazy.dev) (no preasure)
 
@@ -18,7 +18,7 @@ I made tinyff, it's tiny and ff. Really WIP. Looking for contributers and if you
 
 C/C++: Any day of the week  
 Rust: I mean, it's ok  
-Js: WHERES THE GODDAMN TYPE SAFETY  
+Js: WHERES THE GOSHDARN TYPE SAFETY  
 Ts: Ah, there it is  
 Python: Way to overrated  
 Lua: Way to underrated  
