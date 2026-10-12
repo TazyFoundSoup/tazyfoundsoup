@@ -2,34 +2,6 @@ hi
 
 ![hi](hi.gif)
 
-im watson / tazy. i am a student who just does coding as well. i like c and hardware stuff
-
-and i am also a proud .dev domain owner, so [check it out](https://tazy.dev) (no preasure)
-
-
-## Stuff I made
-
-I made tinyff, it's tiny and ff. Really WIP. Looking for contributers and if you do you might get a cookie from me in 20 years 🍪
-
-
- \> \> \> \> \> \> \> \> \> \> \> \> \> \> \> \>  [github.com/TazyFoundSoup/tinyff](https://github.com/TazyFoundSoup/tinyff)  < < < < < < < < < < < < < < < <
-
-## Dev stack
-
-C/C++: Any day of the week  
-Rust: I mean, it's ok  
-Js: WHERES THE GOSHDARN TYPE SAFETY  
-Ts: Ah, there it is  
-Python: Way to overrated  
-Lua: Way to underrated  
-Lisp: (I)(Have)(Never)(Tried)(It)(.)  
-LOLCODE: // TODO: Learn  
-Powerpoint animations: How is this not a language, it's actually the goat  
-
-## Stuff I like
-I like coding (duh) and also photography. I also kinda like baking sometimes. I can make nice gyozas. I really like gardening, especially tomatoes. I also really like aloe vera juice. Idk why you read this but thanks for actually spending time on my profile.
+watson is hardware guy
 
 ![skele boi](https://media.tenor.com/TtRiQdqhRGQAAAAm/skeleton-meme-skeleton.webp)
-
-### What am i doing right now
-Listening to star starer and cici (deserves more attention, check them out plsss)
